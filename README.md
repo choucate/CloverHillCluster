@@ -7,4 +7,7 @@ Puppet for package management;
 Corosync for service HA;
 Pacemaker for service HA;
 DRBD for block storage.
+VSCode for coding,
+GitHub Desktop for version control;
+Git locally for i/o.
 
